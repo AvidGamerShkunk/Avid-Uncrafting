@@ -11,5 +11,4 @@ This mod adds crafting recipes for the crafting table:
 
 
 ## Why do this?
-I, personally, was annoyed that I could not craft amethyst blocks and quartz blocks back into their respective components like I could with several other items in minecraft (e.g.: diamond, lapis lazuli, iron).
-
+I, personally, was annoyed that I could not craft amethyst blocks and quartz blocks back into their respective components like I could with several other items in Minecraft (e.g.: diamond, lapis lazuli, iron).
